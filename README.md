@@ -4,12 +4,10 @@ A Collection of useful bioinfo resources, including webtools, databases, package
 # Single-cell tutorials
 1. Single-cell best practices book (Python, scanpy): https://www.sc-best-practices.org/preamble.html
 
-
 # Online analysis Platforms
 1. Parse Biosciences: https://app.trailmaker.parsebiosciences.com/
 2. Flux estimator: http://scflux.org/
 3. Cell Marker 2.0: http://117.50.127.228/CellMarker/CellMarker_annotation.jsp
-4. 
 
 # R packages
 1. GeneNMF: unsupervised discovery of gene programs in single-cell data
@@ -25,3 +23,4 @@ A Collection of useful bioinfo resources, including webtools, databases, package
 11. scType: Automatic cell annotation using markers
 12. DoubletFinder: find potential doublets/multiplets in single-cell data
 13. ALRA: Adaptively-thresholded Low Rank Approximation (ALRA)
+14. Dorothea: a gene regulatory network containing signed transcription factor (TF) - target gene interactions.
