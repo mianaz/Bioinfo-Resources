@@ -1,10 +1,11 @@
 # Bioinfo-Resources
 A Collection of useful bioinfo resources, including webtools, databases, packages, tutorials, etc
 
-# Single-cell tutorials
+# Single-cell tutorials and reviews
 1. Single-cell best practices book (Python, scanpy): https://www.sc-best-practices.org/preamble.html
+2. Sun, F. et al. Single-cell omics: experimental workflow, data analyses and applications. Science China Life Sciences 1–98 (2024) doi:https://doi.org/10.1007/s11427-023-2561-0.
 
-# Online analysis Platforms
+# Online Analysis Platforms
 1. Parse Biosciences: https://app.trailmaker.parsebiosciences.com/
 2. Flux estimator: http://scflux.org/
 3. Cell Marker 2.0: http://117.50.127.228/CellMarker/CellMarker_annotation.jsp
